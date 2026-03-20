@@ -51,65 +51,65 @@ section {
 }
 .level-1-1 {
 	grid-area: level-1-1;
-	background-image: radial-gradient(circle, rgba(255, 255, 255,0), rgba(0, 0, 0, 0.5) 70%),  url('../images/rooms/room-1.jpg') ;
+	background-image: radial-gradient(circle, rgba(255, 255, 255,0), rgba(0, 0, 0, 0.5) 70%),  url('../images/rooms/room-1.jpg');
 }
 .level-2-1 {
 	grid-area: level-2-1;
-	background-image: radial-gradient(circle, rgba(255, 255, 255,0), rgba(0, 0, 0, 0.5) 70%),  url('../images/rooms/room-2.jpg')
+	background-image: radial-gradient(circle, rgba(255, 255, 255,0), rgba(0, 0, 0, 0.5) 70%),  url('../images/rooms/room-2.jpg');
 }
 .level-3-1 {
 	grid-area: level-3-1;
-	background-image: radial-gradient(circle, rgba(255, 255, 255,0), rgba(0, 0, 0, 0.5) 70%),  url('../images/rooms/room-3.jpg')
+	background-image: radial-gradient(circle, rgba(255, 255, 255,0), rgba(0, 0, 0, 0.5) 70%),  url('../images/rooms/room-3.jpg');
 }
 .level-4-1 {
 	grid-area: level-4-1;
-	background-image: radial-gradient(circle, rgba(255, 255, 255,0), rgba(0, 0, 50, 0.5) 70%),  url('../images/rooms/room-4.jpg')
+	background-image: radial-gradient(circle, rgba(255, 255, 255,0), rgba(0, 0, 50, 0.5) 70%),  url('../images/rooms/room-4.jpg');
 }
 .level-1-2 {
 	grid-area: level-1-2;
-	background-image: radial-gradient(circle, rgba(255, 255, 255,0), rgba(80, 40, 0, 0.5) 80%),  url('../images/rooms/room-5.jpg')
+	background-image: radial-gradient(circle, rgba(255, 255, 255,0), rgba(80, 40, 0, 0.5) 80%),  url('../images/rooms/room-5.jpg');
 }
 .level-2-2 {
 	grid-area: level-2-2;
-	background-image: radial-gradient(circle, rgba(255, 255, 255,0), rgba(0, 0, 0, 0.5) 70%),  url('../images/rooms/room-6.jpg')
+	background-image: radial-gradient(circle, rgba(255, 255, 255,0), rgba(0, 0, 0, 0.5) 70%),  url('../images/rooms/room-6.jpg');
 }
 .level-3-2 {
 	grid-area: level-3-2;
-	background-image: radial-gradient(circle, rgba(255, 255, 255,0), rgba(0, 0, 0, 0.5) 70%),  url('../images/rooms/room-7.jpg')
+	background-image: radial-gradient(circle, rgba(255, 255, 255,0), rgba(0, 0, 0, 0.5) 70%),  url('../images/rooms/room-7.jpg');
 }
 .level-4-2 {
 	grid-area: level-4-2;
-	background-image: radial-gradient(circle, rgba(255, 255, 255,0), rgba(0, 0, 0, 0.5) 70%),  url('../images/rooms/room-8.jpg')
+	background-image: radial-gradient(circle, rgba(255, 255, 255,0), rgba(0, 0, 0, 0.5) 70%),  url('../images/rooms/room-8.jpg');
 }
 .level-1-3 {
 	grid-area: level-1-3;
-	background-image: radial-gradient(circle, rgba(255, 255, 255,0), rgba(0, 0, 0, 0.5) 70%),  url('../images/rooms/room-9.jpg')
+	background-image: radial-gradient(circle, rgba(255, 255, 255,0), rgba(0, 0, 0, 0.5) 70%),  url('../images/rooms/room-9.jpg');
 }
 .level-2-3 {
 	grid-area: level-2-3;
-	background-image: radial-gradient(circle, rgba(255, 255, 255,0), rgba(0, 0, 0, 0.5) 70%),  url('../images/rooms/room-10.jpg')
+	background-image: radial-gradient(circle, rgba(255, 255, 255,0), rgba(0, 0, 0, 0.5) 70%),  url('../images/rooms/room-10.jpg');
 }
 .level-3-3 {
 	grid-area: level-3-3;
-	background-image: radial-gradient(circle, rgba(255, 255, 255,0), rgba(0, 0, 0, 0.5) 70%),  url('../images/rooms/room-11.jpg')
+	background-image: radial-gradient(circle, rgba(255, 255, 255,0), rgba(0, 0, 0, 0.5) 70%),  url('../images/rooms/room-11.jpg');
 }
 .level-4-3 {
 	grid-area: level-4-3;
-	background-image: radial-gradient(circle, rgba(255, 255, 255,0), rgba(0, 0, 0, 0.5) 70%),  url('../images/rooms/room-12.jpg')
+	background-image: radial-gradient(circle, rgba(255, 255, 255,0), rgba(0, 0, 0, 0.5) 70%),  url('../images/rooms/room-12.jpg');
 }
 .level-1-4 {
 	grid-area: level-1-4;
-	background-image: radial-gradient(circle, rgba(255, 255, 255,0), rgba(0, 0, 0, 0.5) 70%),  url('../images/rooms/room-13.jpg')
+	background-image: radial-gradient(circle, rgba(255, 255, 255,0), rgba(0, 0, 0, 0.5) 70%),  url('../images/rooms/room-13.jpg');
 }
 .level-2-4 {
 	grid-area: level-2-4;
-	background-image: radial-gradient(circle, rgba(255, 255, 255,0), rgba(0, 0, 0, 0.5) 70%),  url('../images/rooms/room-14.jpg')
+	background-image: radial-gradient(circle, rgba(255, 255, 255,0), rgba(0, 0, 0, 0.5) 70%),  url('../images/rooms/room-14.jpg');
 }
 .level-3-4 {
 	grid-area: level-3-4;
-	background-image: radial-gradient(circle, rgba(255, 255, 255,0), rgba(0, 0, 0, 0.5) 70%),  url('../images/rooms/room-15.jpg')
+	background-image: radial-gradient(circle, rgba(255, 255, 255,0), rgba(0, 0, 0, 0.5) 70%),  url('../images/rooms/room-15.jpg');
 }
 .level-4-4 {
 	grid-area: level-4-4;
-	background-image: radial-gradient(circle, rgba(255, 255, 255,0), rgba(0, 0, 0, 0.5) 70%),  url('../images/rooms/room-16.jpg')
+	background-image: radial-gradient(circle, rgba(255, 255, 255,0), rgba(0, 0, 0, 0.5) 70%),  url('../images/rooms/room-16.jpg');
 }
